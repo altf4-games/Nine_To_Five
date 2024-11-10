@@ -25,8 +25,8 @@ Dynamic Sun Movement: Experience a full day in-game with realistic sun movement 
 Relatable College Themes: Each level of the game represents different aspects of a student's day, from social encounters to academic pressures and more.
 
 ## Controls
-WASD - Movement
-E - Interact with objects and NPCs
+WASD - Movement <br>
+E - Interact with objects and NPCs <br>
 Tab - Open Inventory
 
 ## Installation
