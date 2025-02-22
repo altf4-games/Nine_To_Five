@@ -1,4 +1,5 @@
 # Nine_To_Five (9 - 5)
+## ALL RIGHTS RESERVED
 
 A 2.5D platformer that takes you through a day in the life of a college student, from the morning rush to classes, social interactions, assignments, and an ever-moving sun marking the hours from 9 AM to 5 PM. Dive into the relatable, sometimes quirky world of college life and experience the ups and downs of an average day as a student.
 
